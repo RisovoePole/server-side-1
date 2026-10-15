@@ -1,5 +1,3 @@
-// console.log("Hi JS!");
-
 const http = require("http");
 
 const server = http.createServer((req, res) => {
